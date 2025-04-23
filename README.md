@@ -8,7 +8,7 @@
 ## Install
 Download and move files from this repo to the `~/.warp/themes` directory.
 ```
-mkdir -p ~/.warp/themes && cp ~/Downloads/tokyo_night.yml ~/Downloads/tokyo_night_storm.yml ~/Downloads/tokyo_night_light.yml ~/.warp/themes/
+mkdir -p ~/.warp/themes && git clone https://github.com/bart-krakowski/warp-tokyo-night.git ~/.warp/themes/warp-tokyo-night
 ```
 
 
